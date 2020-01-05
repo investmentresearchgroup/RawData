@@ -1,0 +1,42 @@
+# INVESTMENT RESEARCH GROUP
+---
+## Business Plan in Brief
+---
+### The Argument
+> The financial system has become an integral part of the human civilization ever since the scrapping of the barter trade system. Money has become the medium of exchange, but also a store of wealth. Financial intermediaries play a crucial role in the latter by alleviating individuals' exposures to the time value of money. Their ability to mediate the flow of funds from savers and investors to projects undertaken by individuals and firms is quintessential when they are strongest. The reverse is obvious, as has been witnessed time and time again with the most recent - The financial crisis - occurring just over a decade ago. The health of the financial system is therefore undeniably a huge concern for everyone. Policy makers and regulators therefore have an enormous responsibility for overseeing the activities of players within the financial system. 
+
+### The Calling
+> Even more important is the role of the private sector in the developing nation of Ghana. Unlike the west, regulators have not been setup to run effectively as independent institutions. The most recent financial crisis to rock the gold coast state is testament to years and years of regulatory oversight. While significant measures have been put in place to mitigate this from repeating in the future, there's no guarantee of the extent to which these new policies will be enforced. The efficiency and efficacy of these systems are as much in doubt as the policy makers who implemented them. 
+
+### The Vision
+> The vision of Investment Research Group is to promote transparency within the investment space through conducting in-depth analysis of investment firms and their products. And presenting results through easy to understand rankings to enable the investing public to discern between good and bad investments. A multiple star scale will be established and assigned to the firms and their products with stronger firms or products assigned a higher rating and weaker firms a lower rating. 
+
+### It's More than a Vision
+> The mandate of Investment Research Group goes beyond just a rankings agency. We are the future of Investment and Finance in the country. We exist to provide both data and analytics to all stakeholders of the Investment and Financial Industry. By leveraging our advancement in technology, we are poised to provide a seamless experience for all.
+
+
+
+### Business Model
+---
+> The business model will be like that of Lipper, Morningstar and Bloomberg. IRG will provide an online resource that will house a plethora of economic and financial data but will also provide in-depth analytics to help draw insights into data that we house.  Aside periodic rankings that will freely be available online to assist investors and other financial market participants, paid analytical services will be available albeit at a fee in making sound investment decisions. 
+
+### Market Entry
+> IRG will enter the Ghanaian landscape by first focusing on publicly listed companies. We will rate the companies based on market segmentation of the companies. Will provide data and analytics on stocks, publicly available mutual funds, and other forms of publicly available product data. Overtime, as the company website begins to generate traffic, we will use our popularity as leverage to get private investment firms to enlist. 
+
+### Operating Model
+> Financial and Economic Data: Financial data will be calculated by on company financial that are publicly available on the Ghana Stock exchange.
+
+### Investment and Portfolio Analytics
+> Buy and sell recommendations: Financial analysis will be carried out to determine valuation of investment firms. 
+Quantitative and Risk modelling: A quantitative model will be built to determine the rankings of investment firms and products. 
+Machine learning and big data analysis: 
+More to come...
+
+### People
+---
+- [David Wiredu](www.linkedin.com/in/davidwiredu): Managing Partner, Director of Quantitative Modelling and Software/Web Development  
+- Kwasi Foh-Asare: Managing Partner, Director of Data Science and Advanced Investment Analytics 
+- Foster Agyemang-Duah: Managing Partner, Director of Economic Research and Business Development
+- Jonathan Agyeman: Managing Partner, Director of Big Data, Statistical, and Market Analytics: 
+- Other people to fill the following positions:
+  -- Director of Digital Marketing and Community Engagement:
